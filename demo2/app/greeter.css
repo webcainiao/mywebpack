@@ -1,4 +1,5 @@
 .root {
 	font-size:  2rem;
 	color:  blue;
+	box-sizing: border-box;
 }
