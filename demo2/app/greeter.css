@@ -3,3 +3,6 @@
 	color:  blue;
 	box-sizing: border-box;
 }
+::placeholder {
+	color: #ccc;
+}
